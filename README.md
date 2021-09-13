@@ -1,5 +1,4 @@
-# calculator
-non precedence calculator
+# calculator - non precedence calculator
 ![Screenshot](https://github.com/sinakhoshdel/calculator/blob/main/assets/Screenshot.png "non precedence calculator")
 <br>
 <h3>Installation steps:</h3>
