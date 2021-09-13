@@ -23,7 +23,7 @@ Require all granted
 </Directory>
 <VirtualHost *:80>
     ServerAdmin webmaster@dummy-host.example.com
-    DocumentRoot "C:/Users/sinak/workspace/ampion"
+    DocumentRoot "C:/Users/sinak/workspace/calculator"
     ServerName  dev.calculator.com
     ErrorLog logs/calculator-error_log
 </VirtualHost>
