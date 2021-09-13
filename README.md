@@ -3,7 +3,7 @@ non precedence calculator
  
 Installation steps:
 you can clone this to your xammp or any other local server you have and the only change you need is this:
-open assets/js/app.js line 20 change the ajax URL to your localhost:
+open assets/js/app.js line 20 change the ajax URL to your localhost host
 for example:
 <pre>http://localhost:8080/ampion</pre>
 
