@@ -1,7 +1,8 @@
 # calculator
 non precedence calculator
 ![Screenshot](https://github.com/sinakhoshdel/calculator/blob/main/assets/Screenshot.png "non precedence calculator")
-Installation steps:
+<br>
+<h3>Installation steps:</h3>
 you can clone this to your xammp or any other local server you have and the only change you need is this:
 open assets/js/app.js line 20 change the ajax URL to your localhost host
 for example:
