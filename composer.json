@@ -1,0 +1,11 @@
+{
+    "name": "sinakhoshdel/calculator",
+    "type": "processwire-module",
+    "license": "MIT",
+    "extra": {
+        "installer-name": "ModuleName"
+    },
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
